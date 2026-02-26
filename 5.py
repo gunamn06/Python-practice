@@ -1,0 +1,19 @@
+items=["Bru","Sugar","Milk","spoon","bru2"]
+print(items[1:3])
+print(items[0:2:2])
+print(len(items))
+matrix=[
+    [1,2,3],
+    [3,5,4],
+    [3,8,9]
+]
+print(matrix[0])
+print(matrix[2][2])
+
+lists=["Guna","nahu","leela","poo","harshi"]
+lists.append("niha")
+print(lists)
+lists.insert(1,"Baby")
+print(lists)
+lists.remove("poo")
+print(lists)
